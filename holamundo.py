@@ -1,6 +1,7 @@
 import subprocess
- 
+
 def run():
     print("Hola Mundo")
- 
-run()
+
+if __name__ == "__main__":
+    run()
